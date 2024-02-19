@@ -1,0 +1,41 @@
+.user-card-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: white;
+}
+.list-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border-radius: 7px;
+  border-width: 0px;
+  margin: 20px;
+}
+.time {
+  color: #64748b;
+  font-family: Roboto;
+  font-size: 15px;
+}
+.profile-pic {
+  width: 40px;
+  height: 40px;
+}
+.para1 {
+  color: #475569;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: bold;
+}
+.para1 {
+  color: #475569;
+  font-family: Roboto;
+  font-size: 15px;
+}
+.delete-img {
+  width: 40px;
+  height: 40px;
+}

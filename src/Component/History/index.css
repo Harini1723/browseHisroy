@@ -1,0 +1,28 @@
+.app-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #3367d6;
+  height: 100vh;
+}
+.logoEl {
+  width: 100px;
+  height: 40px;
+}
+.searchEl {
+  width: 40px;
+  height: 40px;
+  background-color: #2850a7;
+  border: 1px #ececec;
+}
+.inputEl {
+  width: 150px;
+  height: 40px;
+  background-color: #2850a7;
+  border: 1px #ececec;
+}
+.error {
+  color: #475569;
+  font-family: Roboto;
+}
